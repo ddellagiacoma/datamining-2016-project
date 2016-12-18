@@ -1,0 +1,24 @@
+1
+Ok... so I got this because a friend recommended melatonin to help me sleep at night. The first night I tried it I got a little relaxed, fuzzy sleeping feeling for maybe 5 minutes (I was already a little tired) and then BAM I felt hyper. Every other time I tried it since then? Nada. I might as well be drinking water.As for taste... I love me some straight up spirits, so the alcoholy part didn't bother me. It reminded me a bit of NyQuil meets a bit of, I don't know.. some sort of flavored vodka. I'm certainly drank worse things.
+5
+
+
+
+***************************************** Read me! *********************************************
+
+Input is divided in three elements and only the first three rows
+of this document will be considered.
+The input has to respect the following schema.
+
+FIRST ROW: an integer between 1 to 5 that is the real rating of the input review (overall).
+SECOND ROW: the text of the review that will be analyzed in order to predict its rating.
+THIRD ROW: an integer from 1 to 5 to decide which kind of similarity will be used in the program.
+	   1 refers to Cosine Similarity
+	   2 to Jaccard Similarity
+	   3 to Pearson Correlation
+	   4 to Linear Regression
+	   5 to all of them
+
+Be careful not to let any blanks in the first and third row.
+
+*************************************************************************************************
